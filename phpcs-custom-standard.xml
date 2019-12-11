@@ -10,6 +10,7 @@
   <exclude-pattern>*/node_modules/*</exclude-pattern>
   <exclude-pattern>*rules_export.txt</exclude-pattern>
   <exclude-pattern>*/features/*</exclude-pattern>
+  <arg name="extensions" value="php,module,inc,install,test,profile,theme,info,txt,md,yml" />
 
   <!-- This module is not our code.-->
   <exclude-pattern>*/telus_mobile_detect/*</exclude-pattern>
